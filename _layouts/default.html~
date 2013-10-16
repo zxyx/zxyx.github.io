@@ -15,7 +15,7 @@
      <div class="header">
       <section class="sitename"><a href="/"><b>zxyx</b></a></section>
       <div class="nav">
-        <a href="zxyx.github.io">首页</a>
+        <a href="https://zxyx.github.io">首页</a>
         <a href="/apps">APPS</a>
         <a href="{{site:subscribe}}">RSS</a>
       </div>
@@ -23,7 +23,7 @@
     {{ content }}
     <!-- 使用本主题请保留本站链接 -->
     <section class="footer">
-      <p><small><a href="https://github.com/pala/pala.github.com">Designed by Tao Zhang</a> <a href="http://jekyllrb.com">Jekyll</a> · {{site.time | date_to_string }}</small></p>
+      <p><small><a href="https://github.com/pala/pala.github.com">Designed</a> by <a href="http://ztpala.com">Tao Zhang</a> · <a href="http://jekyllrb.com">Jekyll</a> · {{site.time | date_to_string }}</small></p>
     </section>
     <!-- END -->
   </div>

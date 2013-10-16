@@ -1,8 +1,11 @@
 ---
 layout: default
-title: zxyx
+title: Tao Zhang
 ---
 <div class="wrapper">
+  <h2>Apps</h2>
+<ul class="postsList">
+  {% include apps-list.html %}
   <h2>文章</h2>
 {% for post in site.posts limit:5 %}{% include posts-list.html %} {% endfor %}
 <li><span>{{ site.posts.size }} POSTS</span><a href="/archive/">所有文章 →</a></li>
