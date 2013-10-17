@@ -8,7 +8,7 @@ githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
 subscribe: http://zxyx.github.io/atom.xml
 exclude: [ README.md, newpost.rb ]
 domain: zxyx.github.io
-author: zx
+author: zxyx
 email: idaroshan@126.com
 googleAnalyticsID: UA-5531632-1
 disqusShortname: zxyx
