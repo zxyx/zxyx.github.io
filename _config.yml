@@ -5,7 +5,7 @@ redcarpet:
 permalink: /:year/:month/:day/:title 
 title: zxyx
 url: http://zxyx.github.io
-githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
+githubEditBaseURL: https://github.com/zxyx/zxyx.github.com/edit/master/
 subscribe: http://zxyx.github.io/atom.xml
 exclude: [ README.md, newpost.rb ]
 domain: zxyx.github.io
