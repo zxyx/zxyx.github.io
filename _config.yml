@@ -1,4 +1,5 @@
 markdown: redcarpet
+auto: true
 redcarpet:
   extensions: ["autolink", "tables", "strikethrough"]
 permalink: /:year/:month/:day/:title 
