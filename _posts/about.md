@@ -1,87 +1,26 @@
-Dillinger
-=========
+---
+title: 现在mp3里的歌
+layout: post
+date: 2004-12-02 14:14:33
+---
+千年之恋-----信乐团&戴爱玲 
 
-Dillinger is a cloud-enabled HTML5 Markdown editor.
+我们的爱-----F.I.R 
 
-  - Type some Markdown text in the left window
-  - See the HTML in the right
-  - Magic
+seasons in the sun----westlife 
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
+my love-----westlife 
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable 
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+光辉岁月-----BEYOND 
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.  
+离歌-----信乐团 
 
-Version
-----
+海阔天空-----信乐团 
 
-2.0
+拥抱-----五月天 
 
-Tech
------------
+再加上一首删了没多久的 
 
-Dillinger uses a number of open source projects to work properly:
+IN THE END-----linkin park 
 
-* [Ace Editor] - awesome web-based text editor
-* [Marked] - a super fast port of Markdown to JavaScript
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [keymaster.js] - awesome keyboard handler lib by [@thomasfuchs]
-* [jQuery] - duh 
-
-Installation
---------------
-
-```sh
-git clone [git-repo-url] dillinger
-cd dillinger
-npm i -d
-mkdir -p public/files/{md,html,pdf}
-```
-
-##### Configure Plugins. Instructions in following README.md files
-
-* plugins/dropbox/README.md
-* plugins/github/README.md
-* plugins/googledrive/README.md
-
-```sh
-node app
-```
-
-For Nodejitsu Deployment
-----------
-
-```sh
-npm version [ | major | minor | patch | build]
-jitsu deploy
-```
-
-
-License
-----
-
-MIT
-
-*Free Software, Hell Yeah!*
-
-  [john gruber]: http://daringfireball.net/
-  [@thomasfuchs]: http://twitter.com/thomasfuchs
-  [1]: http://daringfireball.net/projects/markdown/
-  [Marked]: https://github.com/chjj/marked
-  [ace editor]: http://ace.ajax.org
-  [node.js]: http://nodejs.org
-  [Twitter Bootstrap]: http://twitter.github.com/bootstrap/
-  [keymaster.js]: https://github.com/madrobby/keymaster
-  [jQuery]: http://jquery.com  
-  [@tjholowaychuk]: http://twitter.com/tjholowaychuk
-  [express]: http://expressjs.com
-  
+充分说明了一个道理:人多力量大!!!!
